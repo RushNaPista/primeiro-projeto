@@ -6,5 +6,5 @@ O Projeto foi feito usando
 -JAVASCRIPT
 -FIGMA
 <p align="center">
-  <img alt="Projeto Curso" src=".github/capa 2.png" width="100%">
+  <img alt="Projeto Curso" src="https://cdn.discordapp.com/attachments/925898932779900968/1161111418746175488/capa_2.png?ex=65371c46&is=6524a746&hm=9cc7b10f2f1d66c03cf660a75087cf11a630c47e64db621d78620ab4ac533d56&" width="100%">
  </p>
