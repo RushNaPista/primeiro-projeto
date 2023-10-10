@@ -33,7 +33,8 @@ body * {
 }
 
 #container1 {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   text-align: center;
   margin: auto;
   padding: 0 24px;
